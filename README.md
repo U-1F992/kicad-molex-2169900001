@@ -9,9 +9,9 @@ $ make all
 ## Requirements
 
 - `curl`
-- `shasum` - from `perl`
-- `pdftoppm` - from `poppler-utils`
-- `convert` - from `imagemagick`
+- `shasum` from `perl`
+- `pdftoppm` from `poppler-utils`
+- `convert` from `imagemagick`
 - `unzip`
 
 ```shell-session
