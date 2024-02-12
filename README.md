@@ -17,3 +17,11 @@ $ make all
 ```shell-session
 $ sudo apt update && sudo apt install curl imagemagick perl poppler-utils unzip
 ```
+
+## Gallery
+
+![](images/symbol.png)
+
+![](images/footprint.png)
+
+![](images/3dviewer.png)
